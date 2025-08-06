@@ -47,9 +47,9 @@ namespace WinFormsApp1
                             byte* p = origPtr + ny * stride + nx * 3;
                             int kernelVal = kernel[ky, kx];
 
-                            rgb[0] += p[0] * kernelVal; // B
-                            rgb[1] += p[1] * kernelVal; // G
-                            rgb[2] += p[2] * kernelVal; // R
+                            rgb[0] += p[0] * kernelVal; 
+                            rgb[1] += p[1] * kernelVal; 
+                            rgb[2] += p[2] * kernelVal; 
                         }
                     }
 
@@ -147,7 +147,6 @@ namespace WinFormsApp1
             return true;
         }
 
-        // Snimanje slike u sopstveni .marko format sa YUV i downsampling 4:2:0
         public static void SaveAsMarkoFormat(Bitmap bitmap, string path)
         {
             int width = bitmap.Width;
@@ -223,7 +222,6 @@ namespace WinFormsApp1
             }
         }
 
-        // Učitavanje slike iz sopstvenog .marko formata i rekonstrukcija Bitmap objekta
         public static Bitmap LoadFromMarkoFormat(string path)
         {
             using (BinaryReader reader = new BinaryReader(File.OpenRead(path)))

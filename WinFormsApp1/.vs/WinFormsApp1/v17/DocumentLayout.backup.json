@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\onedrive\\desktop\\mms - copy\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\desktop\\ggg\\winformsapp1\\winformsapp1\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\onedrive\\desktop\\mms - copy\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\desktop\\ggg\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\onedrive\\desktop\\mms - copy\\winformsapp1\\winformsapp1\\imagepeocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\imagepeocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\onedrive\\desktop\\mms - copy\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\desktop\\ggg\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\onedrive\\desktop\\mms - copy\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\desktop\\ggg\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\onedrive\\desktop\\mms - copy\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\marko\\desktop\\ggg\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6BF8D137-D714-4A64-8B19-A9B5D171B9C1}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -34,25 +34,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwEEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T14:48:29.315Z",
               "EditorCaption": ""
@@ -61,57 +61,56 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:46:21.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:46:21.261Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WinFormsApp1",
-              "DocumentMoniker": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
               "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
-              "ToolTip": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
               "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-23T14:45:05.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "imagePeocessor.cs",
-              "DocumentMoniker": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\imagePeocessor.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\imagePeocessor.cs",
-              "ToolTip": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\imagePeocessor.cs",
-              "RelativeToolTip": "WinFormsApp1\\imagePeocessor.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAQwFEAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "imageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\imageProcessor.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\imageProcessor.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\imageProcessor.cs",
+              "RelativeToolTip": "WinFormsApp1\\imageProcessor.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwOAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:41:12.531Z"
+              "WhenOpened": "2025-07-23T14:41:12.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:40:26.21Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-23T14:40:26.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WinFormsApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
               "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
-              "ToolTip": "C:\\Users\\Marko\\OneDrive\\Desktop\\mms - Copy\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ggg\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
               "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
